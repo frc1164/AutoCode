@@ -24,6 +24,9 @@
 #include "Commands/pos1.h"
 #include "Commands/Pos2.h"
 #include "Commands/Pos3.h"
+
+//This is some stuff that eric added
+
 class Robot : public frc::TimedRobot {
 public:
 
